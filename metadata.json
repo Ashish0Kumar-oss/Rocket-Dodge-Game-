@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Dodge",
+  "description": "A casual 2D arcade game where you control a rocket dodging obstacles in space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
